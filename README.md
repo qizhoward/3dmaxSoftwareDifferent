@@ -6,6 +6,8 @@
 
 使用者自己注意                                                                                                               </br>
 
+中国政府应该不管,不在乎                                                                                                        </br>
+
 例如：                                                                                                                       </br>
 ex:                                                                                                                         </br>
 
@@ -19,8 +21,11 @@ Automatic desk company, the software seems to be automatic Chinese, Chinese vers
 Domestic websites have not been clearly pointed out.                                                                            </br>
 
 User Attention                                                                                                                  </br>
+
+The Chinese government does not care
+
 For example:                                                                                                                    </br>
 Ex:                                                                                                                             </br>
 
-![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/QRcode2.pn）
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolor/）
 
