@@ -6,11 +6,13 @@
 
 使用者自己注意                                                                                                               </br>
 
-中国政府应该不管,不在乎                                                                                                        </br>
+中国政府不管,不在乎                                                                                                        </br>
 
 例如：                                                                                                                       </br>
 ex:                                                                                                                         </br>
 
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolor/中英文区别.PNG）                          </br>
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolor/中英文区别2.PNG）                         </br>
 
 －－－－－－－－－－                                                                                                          </br>
 翻译来自百度翻译:                                                                                                             </br>
@@ -27,5 +29,6 @@ The Chinese government does not care
 For example:                                                                                                                    </br>
 Ex:                                                                                                                             </br>
 
-![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolor/）
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolor/中英文区别.PNG）                            </br>
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolor/中英文区别2.PNG）                           </br>
 
