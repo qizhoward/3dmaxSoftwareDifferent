@@ -22,5 +22,5 @@ User Attention                                                                  
 For example:                                                                                                                    </br>
 Ex:                                                                                                                             </br>
 
-![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/QRcode2.pn
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/QRcode2.pn）
 
