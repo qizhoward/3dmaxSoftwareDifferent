@@ -11,7 +11,7 @@
 例如：                                                                                                                       </br>
 ex:                                                                                                                         </br>
 
-![image]()(https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolder/中英文区别.PNG）
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolder/中英文区别.PNG）
 ![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolder/中英文区别2.PNG）
 
 －－－－－－－－－－                                                                                                          </br>
