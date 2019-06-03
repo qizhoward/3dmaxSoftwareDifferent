@@ -11,8 +11,8 @@
 例如：                                                                                                                       </br>
 ex:                                                                                                                         </br>
 
-![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolor/中英文区别.PNG）                          </br>
-![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolor/中英文区别2.PNG）                         </br>
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolder/中英文区别.PNG）                          </br>
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolder/中英文区别2.PNG）                         </br>
 
 －－－－－－－－－－                                                                                                          </br>
 翻译来自百度翻译:                                                                                                             </br>
@@ -29,6 +29,6 @@ The Chinese government does not care
 For example:                                                                                                                    </br>
 Ex:                                                                                                                             </br>
 
-![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolor/中英文区别.PNG）                            </br>
-![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolor/中英文区别2.PNG）                           </br>
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolder/中英文区别.PNG）                            </br>
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolder/中英文区别2.PNG）                           </br>
 
