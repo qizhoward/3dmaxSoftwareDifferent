@@ -29,6 +29,5 @@ The Chinese government does not care
 For example:                                                                                                                    </br>
 Ex:                                                                                                                             </br>
 
-![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolder/中英文区别.PNG）                            </br>
-![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolder/中英文区别2.PNG）                           </br>
-
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolder/中英文区别.PNG)
+![image](https://github.com/qizhoward/3dmaxSoftwareDifferent/blob/master/ImageFolder/中英文区别2.PNG)
